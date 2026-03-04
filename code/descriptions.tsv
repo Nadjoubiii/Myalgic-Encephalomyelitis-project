@@ -1,0 +1,28 @@
+Variable	Description	Labels_Coding
+ParticipantID	Participant ID	"""PI-###"""
+GENDER	Sex of participant	"Female, Male"
+AGE	Age of participant in years	18 - 67
+Phenotype	Phenotype of participant	"CTL = healthy control, ME = ME/CFS"
+MECFS duration	"Duration of ME/CFS from symptom onset, rounded up to nearest year"	1 - 35
+Study Site	Test site of participant	"ITH = Ithaca, NY; LA = Los Angeles, CA; WC = Weill Cornell, New York, NY"
+Survey Day	"Timepoint of survey completion, in days from the first CPET"	-1 - 22
+Fatigue	Fatigue response on specific symptom severity form	0 - 10
+Brain Fog	Brain fog response on specific symptom severity form	0 - 10
+Sore Throat	Recurring sore throat response on specific symptom severity form	0 - 10
+Tender Nodes	Tender lymph nodes response on specific symptom severity form	0 - 10
+Myalgia	Muscle pain response on specific symptom severity form	0 - 10
+Arthralgia	Joint pain response on specific symptom severity form	0 - 10
+Headache	Headache response on specific symptom severity form	0 - 10
+Sleep Disturbance	Sleep disturbance response on specific symptom severity form	0 - 10
+PEM	Post-exertional malaise response on specific symptom severity form	0 - 10
+Day Sx	Tertile of mean specific symptom severity scores	"High, Mid, Low"
+Mean SSS	Mean of specific symptom severity scores	0 - 10
+Baseline Sx	"Tertile of mean specific symptom severity scores at baseline, done at home prior to testing"	"High, Mid, Low"
+Pretest Sx	"Tertile of mean specific symptom severity scores, done immediately prior to first CPET"	"High, Int, Low"
+Recovery Time	Judged recovery time in days	1 - 64
+Starting SSS	"Mean of specific symptom severity scores immediately prior to first CPET, used to calculate change in score"	0.778 - 7.667
+Adjusted Mean SSS	"Mean of specific symptom severity scores, adjusted for 4 compartment pharmacokinetic modeling"	-2.444 - 6
+Normalized Mean SSS	"Mean of specific symptom severity scores, adjusted and normalized for 1-dose pharmacokinetic modeling "	0.005 - 8.45
+One Dose Kinetics	"Peak change in mean specific symptom severity score, using 1-dose pharmacokinetic modeling"	0 - 6
+MECFS duration <4	"Subject's duration of ME/CFS, in years, in 2 groups"	0 - 3; >3
+MECFS duration grouped	"Subject's duration of ME/CFS, in years, in 3 groups"	0 - 3; 4 - 9; >9

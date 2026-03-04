@@ -1,0 +1,9 @@
+chalder_0,Chalder Fatigue Questionnaire score at baseline (range 0-33)
+sf36_0,SF36 Physical Function Subscale score at baseline (range 0-100)
+cgi_health_1,"Overall, how much do you feel your health has changed since you first came to the CFS/ME service?"
+chalder_1,Chalder Fatigue Questionnaire score at 12-month follow-up (range 0-33)
+sf36_1,SF36 Physical Function Subscale score at 12-month follow-up (range 0-100)
+chalder_2,Chalder Fatigue Questionnaire score at long-term follow-up (range 0-33)
+sf36_2,SF36 Physical Function Subscale score at long-term follow-up (range 0-100)
+cgi_health_2,"Overall, how much do you feel your health has changed since you first came to the CFS/ME service?"
+cgi_cfsme_2,"Overall, how much do you feel your CFS/ME has changed since you first came to the CFS/ME service?"
